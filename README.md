@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Modern Landing Page
 
 A beautiful, responsive landing page built with React (Vite) and Tailwind CSS.
@@ -121,3 +122,6 @@ The built files will be in the `dist/` directory, ready for deployment to any st
 ## License
 
 This project is open source and available under the MIT License.
+=======
+# cursorapp1
+>>>>>>> 0d81c2bb067cddef3ae61394d546eda4dddf2ec7
